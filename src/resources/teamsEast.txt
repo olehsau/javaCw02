@@ -1,0 +1,16 @@
+Pozycja Drużyna Wygrane Przegrane Procent Seria Dywizja
+1;Boston Celtics;2;0;1.000;W2;Atlantic
+2;Atlanta Hawks;2;0;1.000;W2;Southeast
+3;Washington Wizards;2;0;1.000;W2;Southwest
+4;Milwaukee Bucks;1;0;1.000;W1;Central
+5;Brooklyn Nets;1;1;0.500;W1;Atlantic
+6;New York Knicks;1;1;0.500;W1;Atlantic
+7;Charlotte Hornets;1;1;0.500;L1;Southeast
+8;Chicago Bulls;1;1;0.500;L1;Central
+9;Detroit Pistons;1;1;0.500;L1;Central
+10;Toronto Raptors;1;1;0.500;L1;Atlantic
+11;Clevland Cavaliers;0;1;0.000;L1;Central
+12;Indiana Pacers;0;2;0.000;L2;Central
+13;Miami Heat;0;2;0.000;L2;Southeast
+14;Philadelphia 76ers;0;2;0.000;L2;Atlantic
+15;Orlanda Magic;0;2;0.000;L2;Southeast

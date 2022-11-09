@@ -1,0 +1,2 @@
+String[] table = new String[n]; // how is this possible in runtime?? n is unknown during compilation :/
+does java allow that?

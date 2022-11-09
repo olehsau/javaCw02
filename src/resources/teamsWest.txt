@@ -1,0 +1,16 @@
+Pozycja Drużyna Wygrane Przegrane Procent Seria Dywizja
+1;Utah Jazz;2;0;1.000;W2;Northwest
+2;Memphis Grizzlies;2;0;1.000;W2;Southwest
+3;Portland Trail Blazers;2;0;1.000;W2;Northwest
+4;New Orleans Pelicans;2;0;1.000;W2;Southwest
+5;Los Angeles Clippers;1;0;1.000;W1;Pacific
+6;Denver Nuggets;1;1;0.500;W1;Northwest
+7;San Antonio Spurs;1;1;0.500;W1;Southwest
+8;Minnesota Timberwolves;1;1;0.500;L1;Northwest
+9;Phoenix Suns;1;1;0.500;L1;Pacific
+10;Golden State Warriors;1;1;0.500;L1;Pacific
+11;Dallas Mavericks;0;1;0.000;L1;Southwest
+12;Sacramento Kings;0;1;0.000;L1;Pacific
+13;Oklahoma City Thunder;0;1;0.000;L1;Northwest
+14;Houston Rockets;0;2;0.000;L2;Southwest
+15;Los Angeles Lakers;0;2;0.000;L2;Pacific
